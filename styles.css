@@ -87,21 +87,6 @@ textarea {
     display: none;
 }
 
-/* Button */
-button {
-    display: inline-block;
-    background-color: #4CAF50;
-    color: white;
-    border: none;
-    padding: 0.5rem 1rem;
-    margin-top: 1rem;
-    border-radius: 8px;
-    cursor: pointer;
-}
-
-button:hover {
-    background-color: #45a049;
-}
 
 /* Footer */
 footer {
